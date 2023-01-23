@@ -1,0 +1,21 @@
+.title {
+  text-align: center;
+  font-size: 48px;
+  color: rgb(26, 10, 48);
+}
+
+.description {
+  margin-left: 20px;
+  text-align: center;
+  font-size: 25px;
+}
+
+.link {
+  color: rgb(26, 10, 48);
+}
+
+.link:hover,
+.link:focus {
+  color: rgb(120, 78, 168);
+  text-decoration: none;
+}
